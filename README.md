@@ -1,16 +1,44 @@
-### Hi there 👋
+<link href="/assets/styles.css" rel="stylesheet"></link>
+<h1 align="center"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hey" width="40"> Hey there,<br> I'm Mahmoud Ahmed</h1> 
 
-<!--
-**A8N0RMAL/A8N0RMAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me <img src="https://user-images.githubusercontent.com/42123683/231849768-a31086d4-f584-4e52-b7c6-d5d7f5209ffa.gif" width="290" align="right">
+* **Self-taught** Malware analyst.
+* Currently **student @Mansoura University**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+----
+
+
+<h1 align="center"> Languages and Tools  </h>
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-808080?style=flat-square&logo=assembly&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Network](https://img.shields.io/badge/-Network-0078D7?style=flat-square&logo=cisco&logoColor=white)
+![OS](https://img.shields.io/badge/-Operating%20Systems-0078D7?style=flat-square&logo=windows&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-4d4d4d?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/-IDA%20Pro-030303?style=flat-square&logo=ida-pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vm%20Box-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Detected%20easy-2980B9?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Procmon-9B59B6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PE%20View-FFA07A?style=flat-square&logoColor=white" />
+</p>
+
+
+<h1 align="center"> Find me on the web 🌎 </h1>
+
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100007690595152"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:masabnormal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+</p>
+Feel free to reach out to me on any of these platforms, I'd love to connect with you!
+
+
+
+
