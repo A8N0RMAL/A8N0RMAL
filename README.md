@@ -33,6 +33,7 @@
 <h1 align="center"> Find me on the web 🌎 </h1>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-saleh-a1367228b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/profile.php?id=100007690595152"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="mailto:masabnormal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
