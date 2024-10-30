@@ -44,11 +44,9 @@
 Feel free to reach out to me on any of these platforms, I'd love to connect with you!
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A8N0RMAL&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A8N0RMAL&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A8N0RMAL&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=A8N0RMAL&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=A8N0RMAL&theme=radical&hide_border=true)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A8N0RMAL&layout=compact&theme=dark)<br/>
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=A8N0RMAL&theme=darkhub)
@@ -57,6 +55,6 @@ Feel free to reach out to me on any of these platforms, I'd love to connect with
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=A8N0RMAL&color=ff5f8d&style=flat-square&label=Profile%20Views)
+[![](https://visitcount.itsvg.in/api?id=A8N0RMAL&icon=5&color=10)](https://visitcount.itsvg.in)
 
 
