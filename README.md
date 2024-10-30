@@ -49,7 +49,7 @@ Feel free to reach out to me on any of these platforms, I'd love to connect with
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A8N0RMAL&layout=compact&theme=dark)<br/>
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=A8N0RMAL&theme=darkhub)
+![](https://github-profile-trophy.vercel.app/?username=A8N0RMAL&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
