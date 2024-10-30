@@ -53,7 +53,7 @@ Feel free to reach out to me on any of these platforms, I'd love to connect with
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=A8N0RMAL&theme=darkhub)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=A8N0RMAL&color=blue&style=flat)
