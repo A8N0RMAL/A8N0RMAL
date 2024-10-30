@@ -56,6 +56,6 @@ Feel free to reach out to me on any of these platforms, I'd love to connect with
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnitaSobhanian&icon=5&color=10)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=A8N0RMAL&color=blue&style=flat)
 
 
