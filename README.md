@@ -45,6 +45,7 @@ Feel free to reach out to me on any of these platforms, I'd love to connect with
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A8N0RMAL&show_icons=true&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A8N0RMAL&layout=compact&theme=dark)
 
 
