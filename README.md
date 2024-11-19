@@ -54,6 +54,10 @@ Feel free to reach out to me on any of these platforms, I'd love to connect with
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=A8N0RMAL&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 [![](https://visitcount.itsvg.in/api?id=A8N0RMAL&icon=5&color=10)](https://visitcount.itsvg.in)
 
 
