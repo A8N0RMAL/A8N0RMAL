@@ -3,8 +3,8 @@
 
 
 ## <img src="https://img.icons8.com/fluency-systems-filled/48/000000/guest-male.png" width="30" alt="About me"/> About Me <img src="https://user-images.githubusercontent.com/42123683/231849768-a31086d4-f584-4e52-b7c6-d5d7f5209ffa.gif" width="290" align="right">
-* **Self-taught** Malware analyst.
-* Currently **student @Mansoura University**.
+* **Malware analyst** .
+* **.NET Back-end Developer**.
 
 
 ----
